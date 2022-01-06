@@ -18,12 +18,17 @@ Techstack:
          * HTML
          * CSS
          * Python(Flask as Backend)
-• A glimpse of the web app: GIF
+• A glimpse of the web app:
+![61d686c19a965504203995 (1)](https://user-images.githubusercontent.com/67098940/148363457-ae074e51-8ac3-45c6-84cb-1658ffefc9e4.gif)
+
+
 
 ----- Important Note -----
 • If you encounter this webapp as shown in the picture given below, it is occuring just because free dynos for this particular month provided by Heroku have been completely used. You can access the webpage on 1st of the next month.
 • Sorry for the inconvenience.
+![image](https://user-images.githubusercontent.com/67098940/148363551-d39c8963-6458-4fdc-a2c5-8c495f619287.png)
 
 Heroku-Error
 
-Screen Shot of the WebApp : SS
+Screen Shot of the WebApp : 
+
